@@ -1,5 +1,5 @@
-﻿# Build An Awesome Landing Page in ReactJS & TailwindCSS! 
-![alt text](https://github.com/TECHCROWDMY/practice-landing-page/blob/main/cover.jpg?raw=true)
+﻿# Prototype 1  (Qualification Round)
+
 
 
 1. Clone the repository.

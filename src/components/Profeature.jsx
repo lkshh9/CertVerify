@@ -2,7 +2,7 @@ import React from 'react';
 
 const Profeature = () => {
   return (
-    <div id='features' className='w-full bg-gradient-to-r from-gray-100 to-gray-300 py-[50px]'>
+    <div id='features' className='w-full bg-gradient-to-r from-gray-100 to-gray-300 py-[80px]'>
         <div className='md:max-w-[1480px] m-auto max-w-[600px]  px-4 md:px-0'>
         <h1 className='text-center text-4xl font-bold  mb-20'> Key <span className='text-orange-500'> Features </span></h1>
             <div className='flex gap-2'>
@@ -70,8 +70,7 @@ const Profeature = () => {
         <br />
         <br />
         <br />
-        <br />
-        <br />
+
     </div>
   )
 }

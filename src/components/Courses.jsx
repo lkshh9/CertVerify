@@ -49,7 +49,6 @@ const Courses = () => {
         <div className='md:max-w-[1480px] m-auto max-w-[600px]  px-4 md:px-0'>
             <div className='py-2'>
             <h1 className=' text-center py-3 text-4xl font-bold'> Project <span className=' text-center text-sky-500'> Demo </span></h1>
-              {/* <h1 className=' text-center py-3 text-3xl font-bold'>Government training <span className=' text-center text-[#20B486]'>Courses</span></h1> */}
               <p className='text-center font-bold text-1xl  my-8'>Complete a sample Government training course listed below and get your certificate on blockchain after completion</p>
             </div>
 

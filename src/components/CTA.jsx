@@ -3,7 +3,7 @@ import { cta } from '../assets'
 
 const CTA = () => {
   return (
-    <div id='about' className='w-full bg-white py-20'>
+    <div id='about' className='w-full bg-white py-20 '>
       <h1 className='text-center text-4xl font-bold  mb-10 '> About<span className=' text-center text-green-500'> Us </span></h1>
     <div className='md:max-w-[1480px] m-auto grid md:grid-cols-2 gap-8 max-w-[600px] items-center  px-4 md:px-0'>
                 

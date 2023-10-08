@@ -1,0 +1,14 @@
+.mb-8 {
+    margin-bottom: 3rem !important;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem
+}
+
+/* *, *::before, *::after {
+    box-sizing: border-box;
+} */

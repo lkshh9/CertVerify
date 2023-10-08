@@ -4,7 +4,7 @@ import  {AiOutlineSearch} from 'react-icons/ai'
 
 const Hero = () => {
   return (
-    <div className='w-full bg-white py-24'>
+    <div id='home' className='w-full bg-white py-24'>
         <div className='md:max-w-[1480px] m-auto grid md:grid-cols-2 max-w-[600px]  px-4 md:px-0'>
             
             <div className='flex flex-col justify-start gap-4 ml-8'>
@@ -14,8 +14,14 @@ const Hero = () => {
                     We leverage blockchain technology to ensure the authenticity and security of your credentials
                 </p>
             </div>
-            <img  src={heroImg} className="md:order-last  order-first ml-28  " />
+            {/* <div>
+              <img src=''></img>
+            </div> */}
+            <img  src='/ani1.gif' className="md:order-last  order-first mt-0 " />
         </div>
+        <br />
+        <br />
+        <div id='features'></div>
     </div>
   )
 }

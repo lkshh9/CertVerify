@@ -60,7 +60,7 @@ const Achievement = () => {
            </div>
             
              
-             <img  src= "https://img.freepik.com/free-vector/process-concept-illustration_114360-4307.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1696377600&semt=ais" className="m-auto md:order-last  order-first object-full" />
+             <img  src= "https://www.researchgate.net/publication/371709844/figure/fig3/AS:11431281169253636@1687266498762/A-6-step-process-summarizing-how-blockchain-works.ppm" className="m-auto md:order-last  order-first object-full" />
 
 
 

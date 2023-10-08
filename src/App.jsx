@@ -1,16 +1,18 @@
 import React from 'react';
-import { Hero, Navbar,Profeature, Courses, Achievement, CTA, Footer } from './components';
+import { Hero, Navbar,Profeature, Courses, Achievement, CTA, Footer, Anicard } from './components';
 import './App.css'
+
 
 function App() {
   return (
       <div>
         <Navbar />
         <Hero />
-        <Profeature />
+        <Anicard />
         <Achievement />
         <Courses />
         <CTA />
+        
         <Footer />
       </div>
   );

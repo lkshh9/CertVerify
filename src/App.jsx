@@ -12,6 +12,7 @@ function App() {
         <Achievement />
         <Courses />
         <CTA />
+        
         <Footer />
       </div>
   );
